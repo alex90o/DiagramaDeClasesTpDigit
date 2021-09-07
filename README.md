@@ -1,2 +1,2 @@
-# DiagramaDeClasesTp-Digitales
+# DiagramaDeClasesTp-Digitalers
 Primer repositorio
